@@ -1,0 +1,18 @@
+<html>
+<head>
+<title>styl zewnetrzne</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!-- importowany -->
+<style>
+@import url("z5_kod_import.css ");
+</style>
+</head>
+<body bgcolor="silver">
+<p> importowany arkusz</p>
+<H3> h3 wpisany wielkością standardową</H3>
+h1 {
+color: maroon;
+font-size: 72px;
+}
+</body>
+</html>

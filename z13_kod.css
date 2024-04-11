@@ -1,0 +1,56 @@
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Zadanie 6 kod</title>
+    <style>
+        h1 {
+            font-family: Arial;
+            text-align: center;
+        }
+        code {
+            font-family: Arial;
+            font-size: 15px;
+        }
+    </style>
+</head>
+<body>
+    <!--Kornel Malak-->
+    <center>
+        <h1>Zadanie 6 kod</h1>
+    </center>
+    <br><br><br>
+        <h3>Kod HTML</h3>
+        <textarea rows="17" cols="80">
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="stra_z6.css">
+</head>
+<body style="color: blue; font-size: 45mm;">
+    <p style="color: green; font-size: 35mm;">:) uśmiechnięta buźka</p>
+    <p>:( smutna buźka</p>
+    <p style="color: green; font-size: 35mm;">;) oczko</p>
+    <p>:O zdziwienie</p>
+    <p style="color: green; font-size: 35mm;">:P wytknięty język</p>
+    <p>:O zdziwiona buźka</p>
+         
+</body>
+</html>
+            
+        </textarea>
+        <br><br><br>
+        <h3>Kod CSS</h3>
+        <textarea rows="6" cols="40">
+p {
+    color: blue;
+    font-size: 35mm;
+}
+            
+        </textarea>
+    </code>
+</body>
+</html>
