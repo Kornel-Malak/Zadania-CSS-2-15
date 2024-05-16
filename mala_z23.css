@@ -1,0 +1,53 @@
+/* Kornel Malak */
+/* 1 */
+p#pogrubienie_malak
+{
+	font-weight: bold;
+	color: #885DCF;
+	font-size:30px;
+}
+
+/* 2 */
+p#pochylona_malak
+{
+	font-style: italic;
+	color: #ECC16B;
+	font-size:35pt;
+}
+
+/* 3 */
+p#index_gorny_malak
+{
+	vertical-align: super;
+	color: #9C8F1B;
+	font-size:1cm;
+}
+
+/* 4 */
+p#index_dolny_malak
+{
+	vertical-align: sub;
+	color: rgb(46%,24%,27%);
+	font-size:1.5cm;
+}
+
+/* 5 */
+p#mono_malak
+{
+	font-family: monospace;
+	color: #1CF36B;
+	font-size:40px;
+}
+
+/* 6 */
+p#powiekszenie_malak
+{
+	font-size: 25pt; /* powiększyłem tu czcionkę, bo nazwa ID na to wskazuje */
+	color: #563F9D;
+}
+
+/* 7 */
+p#pomniejszenie_malak
+{
+	color: rgb(18%,16%,57%);
+}
